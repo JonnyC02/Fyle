@@ -1,0 +1,17 @@
+{
+  "name": "fyle",
+  "version": "1.0.0",
+  "description": "A cli tool that will open a specified folder in your file explorer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "fyle": "index.js",
+    "file": "index.js",
+    "folder": "index.js",
+    "fe": "index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
